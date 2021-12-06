@@ -123,10 +123,11 @@
 ## Используемая литература <a name="используемая_литература"></a>
 ***
 
-1. metanit.com [Электронный ресурс]. – Режим доступа: https://metanit.com/sharp/aspnet5/5.1.php. – Дата доступа: 02.09.2021.
-2. Draw.io [Электронный ресурс]. – Режим доступа: https://app.diagrams.net/. – Дата доступа: 02.09.2021.
-3. Draw.io [Электронный ресурс]. – Режим доступа: https://app.diagrams.net/. – Дата доступа: 02.09.2021.
-4. Draw.io [Электронный ресурс]. – Режим доступа: https://app.diagrams.net/. – Дата доступа: 02.09.2021.
-5. Draw.io [Электронный ресурс]. – Режим доступа: https://app.diagrams.net/. – Дата доступа: 02.09.2021.
+1. METANIT.COM [Электронный ресурс]. – Режим доступа: https://metanit.com/sharp/aspnet5/5.1.php. – Дата доступа: 30.09.2021.
+2. Lucidchart [Электронный ресурс]. – Режим доступа: https://www.lucidchart.com/pages/uml-use-case-diagram. – Дата доступа: 08.10.2021.
+3. Lucidchart [Электронный ресурс]. – Режим доступа: https://www.lucidchart.com/pages/ru/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0-dfd. – Дата доступа: 20.10.2021.
+4. Lucidchart [Электронный ресурс]. – Режим доступа: https://www.lucidchart.com/pages/ru/erd-%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0. – Дата доступа: 5.11.2021.
+5. ТерминалАЗС [Электронный ресурс]. – Режим доступа: http://azsterminal.ru/articles/avtomaticheskie-azs. – Дата доступа: 05.11.2021.
+6. Топливные Модульные Системы [Электронный ресурс]. – Режим доступа: [Электронный ресурс]. – Режим доступа: http://azsterminal.ru/articles/avtomaticheskie-azs. – Дата доступа: 07.11.2021.
 
 ***
