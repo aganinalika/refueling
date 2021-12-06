@@ -1,5 +1,4 @@
-﻿
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using refueling.Domain;
 using refueling.Repository;
 
@@ -15,7 +14,7 @@ namespace refueling.Controllers
             Storage.CarStorage.Create(car);
             return car;
         }
-
+  
         [HttpGet]
         public Car Read(int carId)
         {
