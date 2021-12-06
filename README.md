@@ -123,6 +123,10 @@
 ## Используемая литература <a name="используемая_литература"></a>
 ***
 
-[1] https://www.cleverence.ru/articles/elektronnaya-kommertsiya/sistema-r-keeper-chto-eto-takoe-printsip-raboty-programmy-luchshee-programmnoe-obespechenie-dlya-res/
+1. metanit.com [Электронный ресурс]. – Режим доступа: https://metanit.com/sharp/aspnet5/5.1.php. – Дата доступа: 02.09.2021.
+2. Draw.io [Электронный ресурс]. – Режим доступа: https://app.diagrams.net/. – Дата доступа: 02.09.2021.
+3. Draw.io [Электронный ресурс]. – Режим доступа: https://app.diagrams.net/. – Дата доступа: 02.09.2021.
+4. Draw.io [Электронный ресурс]. – Режим доступа: https://app.diagrams.net/. – Дата доступа: 02.09.2021.
+5. Draw.io [Электронный ресурс]. – Режим доступа: https://app.diagrams.net/. – Дата доступа: 02.09.2021.
 
 ***
