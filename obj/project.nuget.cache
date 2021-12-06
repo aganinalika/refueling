@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "FC6U7LTiPduGVHJQq20ff+OFT+1TYh9QCxVVLvSpRRREH6Dr3RxfiM8oexyGOeh5gG+lphp901pYM2LKfqH+3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Packard Bell\\Documents\\refueling\\refueling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Packard Bell\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Packard Bell\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Packard Bell\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Packard Bell\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Packard Bell\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Packard Bell\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
