@@ -93,7 +93,7 @@
 ## 3 Разработка системы <a name="Описание_системы"></a>
 ***
 
-![alt text](screen/UCD.png)
+![alt text](Screen/UCD.png)
 
   
 *** 
