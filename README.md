@@ -93,7 +93,7 @@
 ## 3 Разработка системы <a name="Описание_системы"></a>
 ***
 
-![alt text](Screen/8k7HrCvHans.png "Описание будет тут")
+![alt text](Screen/UCD.png)
 
   
 *** 
