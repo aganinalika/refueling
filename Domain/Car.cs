@@ -4,6 +4,6 @@ namespace refueling.Domain
     {
         public int CarId { get; set; }
         public string BrandCar { get; set; }
-        public char Number { get; set; }
+        public string Number { get; set; }
     }
 }
