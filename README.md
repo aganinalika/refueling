@@ -143,23 +143,23 @@
 
 Покажем работу основных методов CRUD на сущности Car.
 
-![alt text](Screen/6.png)
+![alt text](Screen/.png)
 
 1. С помощью операции Create можно создавать новые записи в таблице.
 
-![alt text](Screen/7.png)
+![alt text](Screen/6.png)
 
 Создадим запись о некотором автомобиле:
 
-![alt text](Screen/8.png)
+![alt text](Screen/7.png)
 
 В результате получим следующее:
 
-![alt text](Screen/9.png)
+![alt text](Screen/8.png)
 
 2. Метод Read позволяет считать значение записи, выбранной по определенному критерию.
 
-![alt text](Screen/10.png)
+![alt text](Screen/19.png)
 
 Прочитаем информацию об автомобиле с ID=1:
 
