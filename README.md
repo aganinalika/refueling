@@ -138,46 +138,58 @@
 *** 
 
 В качестве тестирования информационной системы проверим работу контроллеров в Swagger UI.
+
 ![alt text](Screen/5.png)
 
 Покажем работу основных методов CRUD на сущности Car.
-![alt text](Screen/6.png)
 
 1. С помощью операции Create можно создавать новые записи в таблице.
-![alt text](Screen/7.png)
+
+![alt text](Screen/6.png)
 
 Создадим запись о некотором автомобиле:
-![alt text](Screen/8.png)
+
+![alt text](Screen/7.png)
 
 В результате получим следующее:
-![alt text](Screen/9.png)
+
+![alt text](Screen/8.png)
 
 2. Метод Read позволяет считать значение записи, выбранной по определенному критерию.
+
+![alt text](Screen/9.png)
+
+Прочитаем информацию об автомобиле с ID=1:
+
 ![alt text](Screen/10.png)
 
-Прочитаем информацию об автомобиле с номером В342НА62:
-![alt text](Screen/11.npg)
-
 В результате получим:
-![alt text](Screen/12.png)
 
-3. Операция Update позволяет изменить запись. 
-![alt text](Screen/13.png) 
+![alt text](Screen/11.png)
+
+3. Операция Update позволяет изменить запись.
+
+![alt text](Screen/12.png) 
 
 Изменим у нашего автомобиля марку:
-![alt text](Screen/14.png)
+
+![alt text](Screen/13.png)
 
 В результате получим новый автомобиль:
-![alt text](Screen/15.png)
+
+![alt text](Screen/14.png)
 
 4. Метод Delete удаляет записи. В случае успешного удаления выводится true, иначе - false.
-![alt text](Screen/16.png)
+
+![alt text](Screen/15.png)
 
 Удалим запись об автомобиле:
-![alt text](Screen/17.png)
+
+![alt text](Screen/16.png)
 
 В результате получим:
-![alt text](Screen/18.png)
+
+![alt text](Screen/17.png)
 
 ***
 ## Заключение <a name="заключение"></a>
